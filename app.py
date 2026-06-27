@@ -16,7 +16,7 @@ with st.sidebar:
     # 默认填好常用模型，可手动修改
     model_name = st.text_input(
         "模型名称",
-        value="gemini-2.5-pro"
+        value="[满血A]gemini-3-pro-preview-thinking-512"
     )
     st.divider()
     st.caption("✅ 默认适配哈基米API站")
